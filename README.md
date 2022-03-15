@@ -50,3 +50,11 @@ $ npm run deploy
 ```
 
 Very easy and in just one step!  Push to your __master__ branch and use the free hosting that comes with [GitHub pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages), the project is ready to be published. Remember to choose to run the Github Page from your master branch.
+
+
+EXPLICACIÓN: 
+En este ejercicio utilicé javascript para generar nombres de dominios.
+
+Primero establecí las variables que formarían los nombres, luego creé una variable string que contendría dichos nombres y usé bucles for anidados para que se crearan todos los strings con todas las posibles combinaciones; y lo imprimí en la consola.
+
+*Como no conseguí ejecutarlo en la consola con ''$ node app.js'', utilicé html para poder visualizarlo en la página.
